@@ -1,4 +1,4 @@
-package = "luafilesystem"
+package = "testluafilesystem"
 version = "scm-1"
 source = {
    url = "git://gitee.com/chengfangang/lua-package.git"
