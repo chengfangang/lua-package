@@ -1,7 +1,7 @@
 package = "testluafilesystem"
 version = "scm-1"
 source = {
-   url = "git://gitee.com/chengfangang/lua-package.git"
+   url = "git://github.com/chengfangang/lua-package.git"
 }
 description = {
    summary = "File System Library for the Lua Programming Language",
